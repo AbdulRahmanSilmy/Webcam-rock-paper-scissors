@@ -17,6 +17,6 @@ Run the play.py script to start the game. A video demo of the game can be found 
 
 ## Areas for improvement
 
-- Introduce more data augmentation to make a more robust model
+- Introduce more data augmentation to make a more robust model.
 - Look for a more light weight model. Current model takes too much space.
 - Add object localisation capabilities to the model. 
