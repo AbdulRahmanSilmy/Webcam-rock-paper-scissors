@@ -6,8 +6,8 @@ Play rock-paper-scissors through a web cam against a computer. Made possible wit
 - Collect and label images per class.
 - Use train_test_split module to seperate images to train and test files based on predefined ratio. 
 - Train Image Classification model using transfer learning with Xception model in google colab.
-- deploy model into with OpenCV
-- create rock-paper-scissor UI with OpenCV
+- Deploy model with webcam using OpenCV
+- Create rock-paper-scissor UI with OpenCV
 
 ## Gameplay
 
