@@ -1,5 +1,5 @@
 # rock-paper-scissors
-Play rock-paper-scissors through a web cam against a computer. Made possible with an image classifier. The model I used can be found [here.](https://drive.google.com/file/d/1sei12pat2sIh3FhN1PESCNiJ_l-MOr_f/view?usp=sharing)
+Play rock-paper-scissors through a webcam against a computer. Made possible with an image classifier. The model I used can be found [here.](https://drive.google.com/file/d/1sei12pat2sIh3FhN1PESCNiJ_l-MOr_f/view?usp=sharing)
 
 ## Steps
 
