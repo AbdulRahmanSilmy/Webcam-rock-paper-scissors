@@ -14,3 +14,9 @@ Play rock-paper-scissors through a webcam against a computer. Made possible with
 Run the play.py script to start the game. A video demo of the game can be found [here.](https://drive.google.com/file/d/1REm3BGTBYxXaEfUXW5ilFTou9CF9fcJK/view?usp=sharing)
 
 <img src="https://github.com/AbdulRahmanSilmy/rock-paper-scissors/blob/main/gameplay_image.jpg" width="650" height="400" />
+
+## Areas for improvement
+
+- Introduce more data augmentation to make a more robust model
+- Look for a more light weight model. Current model takes too much space.
+- Add object localisation capabilities to the model. 
