@@ -1,5 +1,5 @@
 # rock-paper-scissors
-Play rock-paper-scissors through a web cam against a computer. Made possible with an image classifier. 
+Play rock-paper-scissors through a web cam against a computer. Made possible with an image classifier. The model I used can be found [here.](https://drive.google.com/file/d/1sei12pat2sIh3FhN1PESCNiJ_l-MOr_f/view?usp=sharing)
 
 ## Steps
 
@@ -11,6 +11,6 @@ Play rock-paper-scissors through a web cam against a computer. Made possible wit
 
 ## Gameplay
 
-A video demo of the game can be found [here.](https://drive.google.com/file/d/1REm3BGTBYxXaEfUXW5ilFTou9CF9fcJK/view?usp=sharing)
+Run the play.py script to start the game. A video demo of the game can be found [here.](https://drive.google.com/file/d/1REm3BGTBYxXaEfUXW5ilFTou9CF9fcJK/view?usp=sharing)
 
 <img src="https://github.com/AbdulRahmanSilmy/rock-paper-scissors/blob/main/gameplay_image.jpg" width="650" height="400" />
