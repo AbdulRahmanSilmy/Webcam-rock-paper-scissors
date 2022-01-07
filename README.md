@@ -13,4 +13,4 @@ Play rock-paper-scissors through a web cam against a computer. Made possible wit
 
 A video demo of the game can be found [here.](https://drive.google.com/file/d/1REm3BGTBYxXaEfUXW5ilFTou9CF9fcJK/view?usp=sharing)
 
-<img src="https://github.com/AbdulRahmanSilmy/rock-paper-scissors/blob/main/gameplay_image.jpg" width="600" height="400" />
+<img src="https://github.com/AbdulRahmanSilmy/rock-paper-scissors/blob/main/gameplay_image.jpg" width="650" height="400" />
